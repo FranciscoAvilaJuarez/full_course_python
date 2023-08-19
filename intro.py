@@ -33,7 +33,7 @@ if status.upper() == "N":
     print("New Patient,", "Age:", Edad, "with Social:", Social)
     print("Hospital X, Welcomes You")
 
-if status.upper() == "A":
+elif status.upper() == "A":
     print("Hello,")
     print("Welcome,", Name.capitalize(), Lastname.capitalize(), "Age:", Edad)
     print("Hospital X is Happy to See You!")
