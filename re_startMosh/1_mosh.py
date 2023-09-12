@@ -10,3 +10,4 @@ print ( 'A_' + Nombre.title() + '_le gusta el color_' + Color_favorito.title() )
 #the year we were born  EX EXTRA, SELF
 Fecha_Nacimiento = int( input('What year were you born?_') )
 print( Nombre.title() + '_nacio en el año de_' + str(Fecha_Nacimiento))
+ 
